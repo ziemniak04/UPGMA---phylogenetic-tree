@@ -1,0 +1,4 @@
+Node	Parent	Distance	Height	Type
+(human,rat)	ROOT	0.000000	0.166667	Internal
+human	(human,rat)	0.166667	0.000000	Leaf
+rat	(human,rat)	0.166667	0.000000	Leaf

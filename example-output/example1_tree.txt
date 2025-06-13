@@ -1,0 +1,8 @@
+Node	Parent	Distance	Height	Type
+((Human,Chimp),(Mouse,Rat))	ROOT	0.000000	0.062500	Internal
+(Human,Chimp)	((Human,Chimp),(Mouse,Rat))	0.026786	0.035714	Internal
+Human	(Human,Chimp)	0.035714	0.000000	Leaf
+Chimp	(Human,Chimp)	0.035714	0.000000	Leaf
+(Mouse,Rat)	((Human,Chimp),(Mouse,Rat))	0.026786	0.035714	Internal
+Mouse	(Mouse,Rat)	0.035714	0.000000	Leaf
+Rat	(Mouse,Rat)	0.035714	0.000000	Leaf

@@ -1,0 +1,8 @@
+Node	Parent	Distance	Height	Type
+((Species_A,Species_B),(Species_C,Species_D))	ROOT	0.000000	0.375000	Internal
+(Species_A,Species_B)	((Species_A,Species_B),(Species_C,Species_D))	0.275000	0.100000	Internal
+Species_A	(Species_A,Species_B)	0.100000	0.000000	Leaf
+Species_B	(Species_A,Species_B)	0.100000	0.000000	Leaf
+(Species_C,Species_D)	((Species_A,Species_B),(Species_C,Species_D))	0.225000	0.150000	Internal
+Species_C	(Species_C,Species_D)	0.150000	0.000000	Leaf
+Species_D	(Species_C,Species_D)	0.150000	0.000000	Leaf
