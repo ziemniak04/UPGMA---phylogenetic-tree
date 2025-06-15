@@ -141,7 +141,7 @@ example2_tree.*   # Example outputs from distance matrix
 - `build_upgma_tree()`: Execute UPGMA algorithm
 - `plot_tree()`: Generate visual representation
 
-## Tips for Students
+## Tips 
 
 1. **Start with examples**: Run option 3 first to see how it works
 2. **Use short sequences**: For manual verification, use sequences of 10-20 nucleotides
@@ -155,12 +155,3 @@ example2_tree.*   # Example outputs from distance matrix
 - **"At least 2 sequences required"**: You need minimum 2 sequences/species
 - **"Distance matrix must be symmetric"**: Check that matrix[i][j] = matrix[j][i]
 
-## License
-
-Educational use only. Created for bioinformatics coursework.
-
----
-
-**Author**: Bioinformatics Tool  
-**Version**: 1.0  
-**Course**: Medical Bioinformatics
