@@ -8,11 +8,11 @@ This tool constructs evolutionary trees that show relationships between differen
 
 ## Features
 
-- ✅ **Two input methods**: DNA sequences (MSA) or pre-computed distance matrices
-- ✅ **Automatic distance calculation**: Hamming distance for sequence data
-- ✅ **Multiple output formats**: Newick format, tabular format, and visual plots
-- ✅ **Interactive interface**: Easy-to-use command-line interface
-- ✅ **Built-in examples**: Ready-to-run examples for learning
+- **Two input methods**: DNA sequences (MSA) or pre-computed distance matrices
+- **Automatic distance calculation**: Hamming distance for sequence data
+- **Multiple output formats**: Newick format, tabular format, and visual plots
+- **Interactive interface**: Easy-to-use command-line interface
+- **Built-in examples**: Ready-to-run examples for learning
 
 ## Requirements
 
@@ -111,14 +111,14 @@ example2_tree.*   # Example outputs from distance matrix
 ## Educational Notes
 
 ### When to Use UPGMA
-- ✅ When evolutionary rates are relatively constant
-- ✅ For molecular data with clock-like behavior
-- ✅ For educational purposes and simple analyses
+- When evolutionary rates are relatively constant
+- For molecular data with clock-like behavior
+- For educational purposes and simple analyses
 
 ### Limitations
-- ❌ Assumes molecular clock (constant evolutionary rate)
-- ❌ Not suitable for data with varying evolutionary rates
-- ❌ Can produce incorrect topologies for non-clock data
+- Assumes molecular clock (constant evolutionary rate)
+- Not suitable for data with varying evolutionary rates
+- Can produce incorrect topologies for non-clock data
 
 ### Alternative Methods
 - **Neighbor-Joining**: Better for non-clock data

@@ -427,7 +427,6 @@ class UPGMATreeBuilder:
 def get_user_input_sequences():
     """
     Get sequence data from user input
-
     Returns:
         List[Tuple[str, str]]: List of (name, sequence) tuples
     """
